@@ -20,14 +20,14 @@ enum Color {
    LightGrey = 0xC618,
    //% block="DarkGrey"
    DarkGrey = 0x7BEF,
-   //% block="Blue"
-   Blue = 0x001F,
+   //% block="Blue" j'ai du Rouge
+   Red = 0x001F,
    //% block="Green"
    Green = 0x07E0,
    //% block="Cyan"
    Cyan = 0x07FF,
    //% block="Red"
-   Red = 0xF800,
+   Red1 = 0xF800,
    //% block="Magenta"
    Magenta = 0xF81F,
    //% block="Yellow"
